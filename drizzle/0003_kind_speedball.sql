@@ -1,0 +1,1 @@
+ALTER TABLE `batches` ADD `sheet_exponents_json` text DEFAULT '["-3","-3","-3"]' NOT NULL;

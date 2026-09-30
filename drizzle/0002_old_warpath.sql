@@ -1,0 +1,1 @@
+ALTER TABLE `projects` ADD `recipe_template_json` text;
